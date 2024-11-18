@@ -100,42 +100,51 @@
     "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
     "skills": [
       {
-        "title": "Photoshop",
+        "title": "React jS",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Motion Graphic",
-        "progress": "75%",
+        "title": "Express JS",
+        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
+    
+   
       {
-        "title": "Adobe XD",
+        "title": "Full Stack Web Developer",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "400"
+        "delay": "700"
       },
       {
-        "title": "UX Design",
+        "title": "Mobile Developer",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      } ,
+        {
+        "title": "Software Testing",
         "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "HTML",
+        "title": "Software development",
         "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Digital Marketing",
+        "title": "Problem solving",
         "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
@@ -492,42 +501,42 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
+        "title": "Software Engineer",
         "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
+        "subTitle": "Emka",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
+        "title": "Web Developer",
+        "duration": "Jan 2017 - December 2019",
+        "subTitle": "Frealancer - Part-Time",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
+        "title": "Game Developer",
+        "duration": "Fev 2015 - December 2016",
+        "subTitle": "Orange Developer Center",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
+        "title": "Master's degree in Software Engineering and Rapid Application dDvelopment",
+        "duration": "2017 - 2019",
+        "subTitle": "Higher Institute of Technological Studies of Sousse",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Diploma in of Multimedia and Web Dvelopment",
+        "duration": "2014 - 2017",
+        "subTitle": "Higher Institute of Technological Studies of Sousse",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
         "title": "Bachelor of Computer Science",
         "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
+        "subTitle": "Kesra High School",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ]
