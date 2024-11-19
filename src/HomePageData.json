@@ -11,7 +11,7 @@
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm BOUFAT'H Aziz",
     "subtitle": "Software Engineer",
-    "text": "I am a SSoftware Engineer with a master's degree in software engineering and over 4 years of professional experience. Expertise in full-stack development, real-time application systems, and rapid application deployment. Successfully developed innovative web and mobile solutions for transport geolocation, passenger information systems, and LED display control applications. Fluent in English, French, and Arabic, with availability for freelance and part-time roles. ",
+    "text": "I am a Software Engineer with a master's degree in software engineering and over 4 years of professional experience. Expertise in full-stack development, real-time application systems, and rapid application deployment. Successfully developed innovative web and mobile solutions for transport geolocation, passenger information systems, and LED display control applications. Fluent in English, French, and Arabic, with availability for freelance and part-time roles. ",
     "details": [
       {
         "title": "Birthday",
@@ -468,38 +468,38 @@
     "informations": [
       {
         "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
+        "title": "",
+        "designation": "",
         "text": ""
       },
       {
         "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
+        "title": "",
+        "designation": "",
         "text": ""
       },
       {
         "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
+        "title": "",
+        "designation": "",
         "text": ""
       },
       {
         "imgLink": "/images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
+        "title": "",
+        "designation": "",
         "text": ""
       },
       {
         "imgLink": "/images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
+        "title": "",
+        "designation": "",
         "text": ""
       },
       {
         "imgLink": "/images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
+        "title": "",
+        "designation": "",
         "text": ""
       }
     ]
@@ -556,24 +556,32 @@
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
-    },
-    {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "X",
-      "link": "https://x.com/azizboufath"
-    },
-    {
       "icon": "linkedin",
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/aziz-boufath-a7353112a/"
+    },
+    {
+      "icon": "twitter",
+      "title": "twitter",
+      "link": "https://x.com/azizboufath"
+    },
+    
+    {
+      "icon": "facebook",
+      "title": "facebook",
+      "link": "https://www.facebook.com/share/1BeJxR8BMS/"
+    },
+    {
+      "icon": "telegram",
+      "title": "telegram",
+      "link": "https://t.me/+21656100591"
+    },
+    {
+      "icon": "threads",
+      "title": "threads",
+      "link": "https://www.threads.net/@azizbfth"
     }
+    
+
   ]
 }
