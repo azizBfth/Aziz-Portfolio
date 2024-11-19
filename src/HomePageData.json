@@ -11,7 +11,7 @@
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm BOUFAT'H Aziz",
     "subtitle": "Software Engineer",
-    "text": "I am a Software Engineerwith a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "text": "I am a SSoftware Engineer with a master's degree in software engineering and over 4 years of professional experience. Expertise in full-stack development, real-time application systems, and rapid application deployment. Successfully developed innovative web and mobile solutions for transport geolocation, passenger information systems, and LED display control applications. Fluent in English, French, and Arabic, with availability for freelance and part-time roles. ",
     "details": [
       {
         "title": "Birthday",
@@ -48,7 +48,7 @@
       {
         "imgLink": "/images/icon/icon1.png",
         "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
@@ -56,7 +56,7 @@
       {
         "imgLink": "/images/icon/icon2.png",
         "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
@@ -64,7 +64,7 @@
       {
         "imgLink": "/images/icon/icon3.png",
         "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
@@ -72,7 +72,7 @@
       {
         "imgLink": "/images/icon/icon4.png",
         "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
@@ -80,7 +80,7 @@
       {
         "imgLink": "/images/icon/icon5.png",
         "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
@@ -88,7 +88,7 @@
       {
         "imgLink": "/images/icon/icon6.png",
         "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -97,7 +97,7 @@
   },
   "skillData": {
     "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "text": "",
     "skills": [
       {
         "title": "React jS",
@@ -125,6 +125,13 @@
       {
         "title": "Mobile Developer",
         "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      } ,
+      {
+        "title": "UI/UX Designer",
+        "progress": "80%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -463,37 +470,37 @@
         "imgLink": "/images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       },
       {
         "imgLink": "/images/client/client2.png",
         "title": "Vesta Shufelt",
         "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       },
       {
         "imgLink": "/images/client/client3.png",
         "title": "Joseph Alves",
         "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       },
       {
         "imgLink": "/images/client/client1.png",
         "title": "Richard Miles",
         "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       },
       {
         "imgLink": "/images/client/client2.png",
         "title": "Vesta Shufelt",
         "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       },
       {
         "imgLink": "/images/client/client3.png",
         "title": "Joseph Alves",
         "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "text": ""
       }
     ]
   },
@@ -504,40 +511,40 @@
         "title": "Software Engineer",
         "duration": "Jan 2020 - Present",
         "subTitle": "Emka",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       },
       {
         "title": "Web Developer",
         "duration": "Jan 2017 - December 2019",
         "subTitle": "Frealancer - Part-Time",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       },
       {
         "title": "Game Developer",
         "duration": "Fev 2015 - December 2016",
         "subTitle": "Orange Developer Center",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master's degree in Software Engineering and Rapid Application dDvelopment",
+        "title": "Master's degree in Software Engineering and Rapid Application Dvelopment",
         "duration": "2017 - 2019",
         "subTitle": "Higher Institute of Technological Studies of Sousse",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       },
       {
-        "title": "Diploma in of Multimedia and Web Dvelopment",
+        "title": "Applied degree in Multimedia and Web Dvelopment",
         "duration": "2014 - 2017",
         "subTitle": "Higher Institute of Technological Studies of Sousse",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       },
       {
         "title": "Bachelor of Computer Science",
         "duration": "2010 - 2014",
         "subTitle": "Kesra High School",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "text": ""
       }
     ]
   },
@@ -545,7 +552,7 @@
     "formTitle": "Just say Hello",
     "title": "Contact Info",
     "subTitle": "Visite my social profile and get connected",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    "text": ""
   },
   "socialData": [
     {
@@ -560,13 +567,13 @@
     },
     {
       "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
+      "title": "X",
+      "link": "https://x.com/azizboufath"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/aziz-boufath-a7353112a/"
     }
   ]
 }
